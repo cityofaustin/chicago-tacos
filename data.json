@@ -5,6 +5,12 @@
             "neighborhood": "West 6th",
             "url": "http://irenesaustin.com/",
             "location": [30.270023, -97.751162]
+        },
+        {
+            "name": "CENTRAL LIBRARY!!!",
+            "neighborhood": "North shore",
+            "url": "http://library.austintexas.gov",
+            "location": [30.2612972, -97.7608494]
         }
     ]
 }
