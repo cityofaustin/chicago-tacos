@@ -11,6 +11,12 @@
             "neighborhood": "North shore",
             "url": "http://library.austintexas.gov",
             "location": [30.267080, -97.749906]
+        },
+        {
+            "name": "Empire",
+            "neighborhood": "Red River",
+            "url": "http://empireatx.com/",
+            "location": [30.267399, -97.736126]
         }
     ]
 }
