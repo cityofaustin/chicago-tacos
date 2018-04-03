@@ -17,6 +17,12 @@
             "neighborhood": "Red River",
             "url": "http://empireatx.com/",
             "location": [30.267399, -97.736126]
+        },
+        {
+            "name": "Suerte",
+            "neighborhood": "East Austin",
+            "url": "https://www.suerteatx.com/",
+            "location": [30.263204, -97.723383]
         }
     ]
 }
